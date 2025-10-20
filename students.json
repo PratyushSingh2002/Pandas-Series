@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Amit Kumar",
+      "age": 21,
+      "grade": "A",
+      "subjects": ["Math", "Physics", "Chemistry"]
+    },
+    {
+      "id": 2,
+      "name": "Neha Singh",
+      "age": 22,
+      "grade": "B",
+      "subjects": ["Biology", "Chemistry", "English"]
+    },
+    {
+      "id": 3,
+      "name": "Rohit Verma",
+      "age": 20,
+      "grade": "A",
+      "subjects": ["History", "Math", "Geography"]
+    },
+    {
+      "id": 4,
+      "name": "Priya Sharma",
+      "age": 23,
+      "grade": "C",
+      "subjects": ["Economics", "English", "Math"]
+    },
+    {
+      "id": 5,
+      "name": "Arjun Mehta",
+      "age": 21,
+      "grade": "B",
+      "subjects": ["Physics", "Chemistry", "Math"]
+    }
+  ]
+}
